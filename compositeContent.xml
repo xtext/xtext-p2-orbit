@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name="Xtext 2.15 Orbit Alias" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="1">
+    <property name="p2.timestamp" value="1535530162000"/>
+  </properties>
+  <children size="1">
+    <child location="http://download.eclipse.org/tools/orbit/I-builds/I20180823201637/repository/"/>
+  </children>
+</repository>

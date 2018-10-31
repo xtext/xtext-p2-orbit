@@ -6,6 +6,6 @@
   </properties>
   <children size="2">
     <child location="http://download.eclipse.org/tools/orbit/downloads/drops/S20181010170940/repository"/>
-    <child location="http://download.eclipse.org/tools/orbit/I-builds/I20181031064644/repository"/>
+    <child location="http://download.eclipse.org/tools/orbit/downloads/drops/I20181031064644/repository/"/>
   </children>
 </repository>

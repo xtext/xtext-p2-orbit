@@ -2,10 +2,9 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name="Xtext 2.16 Orbit Alias" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
   <properties size="1">
-    <property name="p2.timestamp" value="1539234267673"/>
+    <property name="p2.timestamp" value="1541010414299"/>
   </properties>
-  <children size="2">
-    <child location="http://download.eclipse.org/tools/orbit/downloads/drops/S20181010170940/repository"/>
-    <child location="http://download.eclipse.org/tools/orbit/downloads/drops/I20181031064644/repository/"/>
+  <children size="1">
+    <child location="http://download.eclipse.org/tools/orbit/downloads/drops/S20181031145145/repository"/>
   </children>
 </repository>

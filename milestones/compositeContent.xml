@@ -2,10 +2,9 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='TMF Xtext Update Site (Milestones)' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1543222972288'/>
+    <property name='p2.timestamp' value='1547589319287'/>
   </properties>
-  <children size='2'>
-    <child location='head/S201810150206'/>
-    <child location='head/S201811260210'/>
+  <children size='1'>
+    <child location='head/S201901151856'/>
   </children>
 </repository>

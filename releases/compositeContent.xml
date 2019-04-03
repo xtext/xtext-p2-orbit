@@ -2,9 +2,9 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='TMF Xtext Update Site (Releases)' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1551713845967'/>
+    <property name='p2.timestamp' value='1554288828743'/>
   </properties>
-  <children size='38'>
+  <children size='39'>
     <child location='maintenance/R201111141332'/>
     <child location='helios/R201102150722'/>
     <child location='head/R201108020636'/>
@@ -43,5 +43,6 @@
     <child location='2.15.0/'/>
     <child location='2.16.0/'/>
     <child location='2.17.0/'/>
+    <child location='2.17.1/'/>
   </children>
 </repository>

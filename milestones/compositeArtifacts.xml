@@ -2,9 +2,10 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='TMF Xtext Update Site (Milestones)' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1555363026128'/>
+    <property name='p2.timestamp' value='1557157618324'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='head/S201904151903'/>
+    <child location='head/S201905061516'/>
   </children>
 </repository>

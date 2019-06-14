@@ -2,9 +2,9 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name="Xtext 2.19 Orbit Alias" type="org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository" version="1.0.0">
   <properties size="1">
-    <property name="p2.timestamp" value="1554380216120"/>
+    <property name="p2.timestamp" value="1560449176595"/>
   </properties>
   <children size="1">
-    <child location="https://download.eclipse.org/tools/orbit/downloads/2019-06/"/>
+    <child location="https://download.eclipse.org/tools/orbit/downloads/2019-09/"/>
   </children>
 </repository>

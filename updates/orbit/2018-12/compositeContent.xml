@@ -5,6 +5,6 @@
     <property name="p2.timestamp" value="1543963383735"/>
   </properties>
   <children size="1">
-    <child location="http://download.eclipse.org/tools/orbit/downloads/drops/R20181128170323/repository"/>
+    <child location="https://download.eclipse.org/tools/orbit/downloads/drops/R20181128170323/repository"/>
   </children>
 </repository>

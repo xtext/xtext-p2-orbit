@@ -5,8 +5,8 @@
     <property name='p2.timestamp' value='1576498335779'/>
   </properties>
   <children size='4'>
-    <child location='https://download.eclipse.org/modeling/emft/mwe/updates/releases/2.11.1/'/>
-    <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.20.0/'/>
+    <child location='https://download.eclipse.org/modeling/emft/mwe/updates/releases/2.11.2/'/>
+    <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.21.0/'/>
     <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/xpand/R201406030414/'/>
     <child location='https://download.eclipse.org/modeling/emf/emf/builds/release/latest'/>
   </children>

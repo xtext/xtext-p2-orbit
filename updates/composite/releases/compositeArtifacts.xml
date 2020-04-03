@@ -7,7 +7,7 @@
   <children size='4'>
     <child location='http://download.eclipse.org/modeling/emft/mwe/updates/releases/'/>
     <child location='http://download.eclipse.org/modeling/tmf/xtext/updates/releases/'/>
-    <child location='http://download.eclipse.org/modeling/tmf/xtext/updates/releases/xpand/'/>
+    <child location='http://download.eclipse.org/modeling/m2t/xpand/updates/releases/'/>
     <child location='http://download.eclipse.org/modeling/emf/emf/builds/release/'/>
   </children>
 </repository>

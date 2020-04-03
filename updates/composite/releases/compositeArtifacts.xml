@@ -2,7 +2,7 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='Xtext All In One (Releases)' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1554465180693'/>
+    <property name='p2.timestamp' value='1585924974905'/>
   </properties>
   <children size='4'>
     <child location='http://download.eclipse.org/modeling/emft/mwe/updates/releases/'/>

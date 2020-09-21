@@ -6,7 +6,7 @@
   </properties>
   <children size='4'>
     <child location='https://download.eclipse.org/modeling/emft/mwe/updates/releases/2.11.3/'/>
-    <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.22.0/'/>
+    <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/2.23.0/'/>
     <child location='https://download.eclipse.org/modeling/m2t/xpand/updates/releases/R201605260315/'/>
     <child location='https://download.eclipse.org/modeling/emf/emf/builds/release/latest'/>
   </children>

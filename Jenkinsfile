@@ -19,7 +19,7 @@ pipeline {
         
         dir ('updates') {
           sshagent(['projects-storage.eclipse.org-bot-ssh']) {
-            sh 'scp -r $(pwd) genie.xtext@projects-storage.eclipse.org:/home/data/httpd/download.eclipse.org/modeling/tmf/xtext/updates/'
+            sh 'scp -r $(pwd)/* genie.xtext@projects-storage.eclipse.org:/home/data/httpd/download.eclipse.org/modeling/tmf/xtext/updates/'
           }
         }
       } // steps

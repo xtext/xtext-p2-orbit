@@ -5,9 +5,9 @@
     <property name='p2.timestamp' value='1585924974905'/>
   </properties>
   <children size='4'>
-    <child location='http://download.eclipse.org/modeling/emft/mwe/updates/releases/'/>
-    <child location='http://download.eclipse.org/modeling/tmf/xtext/updates/releases/'/>
-    <child location='http://download.eclipse.org/modeling/m2t/xpand/updates/releases/'/>
-    <child location='http://download.eclipse.org/modeling/emf/emf/builds/release/'/>
+    <child location='https://download.eclipse.org/modeling/emft/mwe/updates/releases/'/>
+    <child location='https://download.eclipse.org/modeling/tmf/xtext/updates/releases/'/>
+    <child location='https://download.eclipse.org/modeling/m2t/xpand/updates/releases/'/>
+    <child location='https://download.eclipse.org/modeling/emf/emf/builds/release/'/>
   </children>
 </repository>
